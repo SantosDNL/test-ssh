@@ -1,5 +1,0 @@
-jose	1234
-maria	1234
-
-antonio	abcd
-armando	abcd
